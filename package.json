@@ -1182,7 +1182,7 @@
     "util": "0.12.4",
     "winston": "3.8.2",
     "winston-console-for-electron": "0.0.6",
-    "winston-transport": "4.5.0"
+    "winston-transport": "4.6.0"
   },
   "devDependencies": {
     "@types/diff": "5.0.2",
